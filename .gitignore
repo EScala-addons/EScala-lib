@@ -1,6 +1,9 @@
 *.class
 *.log
 
+build/*
+lib/*
+
 # sbt specific
 dist/*
 target/
